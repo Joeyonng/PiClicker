@@ -1,0 +1,4 @@
+cp ./cmdline_GEther.txt /boot/cmdline.txt
+cp ./rclocal_GEther /etc/rc.local
+echo "GEther" > Pathway
+reboot

@@ -1,0 +1,54 @@
+{
+	"name": "iclicker-web",
+	"version": "1.0.0",
+	"description": "",
+	"private": true,
+	"main": "index.js",
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/zzjas/iclicker-web.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/zzjas/iclicker-web/issues"
+	},
+	"homepage": "https://iclicker-web.firebaseapp.com/",
+	"devDependencies": {
+		"@material-ui/core": "^4.1.0",
+		"@material-ui/icons": "^4.1.0",
+		"@material-ui/styles": "^4.1.0",
+		"@material-ui/lab": "^4.0.0-alpha.23",
+		"@material-ui/pickers": "^3.1.0",
+		"@date-io/moment": "^1.1.0",
+		"material-ui-chip-input": "^2.0.0-beta.1",
+		"chart.js": "^2.8.0",
+		"color": "^3.1.0",
+		"moment": "^2.24.0",
+		"react": "next",
+		"react-dom": "next",
+		"react-redux": "^6.0.0",
+		"react-router-dom": "^4.3.1",
+		"react-chartjs-2": "^2.7.4",
+		"react-scripts": "^2.1.8",
+		"react-swipeable-views": "^0.13.1",
+		"redux": "^4.0.1",
+		"downloadjs": "^1.4.7",
+		"material-table": "^1.44.0",
+		"xlsx": "^0.14.1",
+		"axios": "^0.19.0",
+		"socket.io-client": "^2.3.0"
+	},
+	"browserslist": [
+		">0.2%",
+		"not dead",
+		"not ie <= 11",
+		"not op_mini all"
+	]
+}

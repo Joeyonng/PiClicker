@@ -1,0 +1,4 @@
+cp ./cmdline_HID.txt /boot/cmdline.txt
+cp ./rclocal_HID /etc/rc.local
+echo "HID" > Pathway
+reboot
