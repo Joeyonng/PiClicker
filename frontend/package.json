@@ -41,7 +41,7 @@
 		"redux": "^4.0.1",
 		"downloadjs": "^1.4.7",
 		"material-table": "^1.44.0",
-		"xlsx": "^0.14.1",
+		"xlsx": "^0.17.0",
 		"axios": "^0.19.0",
 		"socket.io-client": "^2.3.0"
 	},
